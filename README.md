@@ -1,7 +1,7 @@
 # BookTrack Management System
 
 BookTrack is a web-based reader community platform developed as a group
-project for CSC575: Software Engineering – Theories and Principles.
+project for CSC577: Software Engineering – Theories and Principles.
 
 The platform allows readers to discover books, organise their reading
 lists, share reviews, and engage with other readers without involving
