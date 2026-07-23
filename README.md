@@ -59,6 +59,12 @@ BookTrack focuses on reader interaction and personal reading management.
 It does not provide book purchasing, payment, delivery, or other
 e-commerce services.
 
+## Software Engineering Documentation
+
+- [Software Requirements Analysis](documentation/SRA_LibriTech_BookTrack Management System.pdf)
+- [Software Design Document](documentation/SDD_BookTrack Management System.pdf)
+- [Software Test Document](documentation/STD BookTrack Management System.pdf)
+
 ## Project Status
 
 Academic prototype developed for CSC575. Some functions may use
